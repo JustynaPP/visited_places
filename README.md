@@ -1,16 +1,13 @@
 # visited_places
 
-A new Flutter project.
 
-## Getting Started
+This is simple, not finished app for view Your trips. 
 
-This project is a starting point for a Flutter application.
+# Some used libraries: 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+uuid (assigning ID), 
+intl (formating date), 
+image picker (picking image from gallery or taking photo), 
+flutter riverpod (state management), 
+path (assigning image path), 
+sqflite (storing data on device).
